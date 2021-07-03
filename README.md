@@ -1,3 +1,3 @@
-# Bob chan
+# Blob chan
 
-Bob chan o blockchain
+Blob (bolha em inglês) chan (querida em japonês) a blockchain
